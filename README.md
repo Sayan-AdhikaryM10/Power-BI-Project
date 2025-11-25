@@ -120,6 +120,3 @@ Feel free to fork this repo, open issues, or submit pull requests.
 Sayan Adhikary
 
 If you need help improving your dashboard or adding advanced DAX, feel free to ask!
-
-        Population[Gender] = "Female"
-    )
