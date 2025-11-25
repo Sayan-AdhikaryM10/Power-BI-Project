@@ -117,6 +117,6 @@ Feel free to fork this repo, open issues, or submit pull requests.
 
 ## 📧 Contact
 
-Sayan Adhikary
+Sayan Adhikary - https://sayanadhikary.free.nf/ , Gmail - sayanadhikary831@gmail.com
 
 If you need help improving your dashboard or adding advanced DAX, feel free to ask!
