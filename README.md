@@ -79,5 +79,47 @@ Male Population =
 Female Population = 
     CALCULATE(
         SUM(Population[Value]), 
+
+---
+
+```
+
+## 🧹 Data Cleaning
+
+Performed using Power Query:
+
+- Removed duplicates
+- Fixed missing/null values
+- Standardized region & country names
+- Converted units (K → Thousand, M → Million, B → Billion)
+
+## 📥 How to Use the Project
+1. ![Download the `.pbix` file from this Google Drive.][https://drive.google.com/drive/folders/1r3-ME12RaXdJboymlSQBr72snbcVnrFP?usp=drive_link]  
+2. Open it using **Power BI Desktop**.  
+3. Replace with your own dataset if required (Home → Transform Data → Replace source).  
+4. Explore visual insights and analytics using slicers and visuals.
+5. git clone https://github.com/yourusername/your-repo-name.git for report pdf
+
+## 🔮 Future Improvements
+
+- Add forecasting & trend lines  
+- Add growth percentage calculations  
+- Include drill-through pages for detailed country analysis
+
+---
+
+## 🤝 Contributing
+
+Contributions and suggestions are welcome.  
+Feel free to fork this repo, open issues, or submit pull requests.
+
+---
+
+## 📧 Contact
+
+Sayan Adhikary
+
+If you need help improving your dashboard or adding advanced DAX, feel free to ask!
+
         Population[Gender] = "Female"
     )
