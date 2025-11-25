@@ -94,7 +94,7 @@ Performed using Power Query:
 - Converted units (K → Thousand, M → Million, B → Billion)
 
 ## 📥 How to Use the Project
-1. ![Download the `.pbix` file from this Google Drive.](https://drive.google.com/drive/folders/1r3-ME12RaXdJboymlSQBr72snbcVnrFP?usp=drive_link)  
+1. Download the `.pbix` file from this Google Drive.https://drive.google.com/drive/folders/1r3-ME12RaXdJboymlSQBr72snbcVnrFP?usp=drive_link  
 2. Open it using **Power BI Desktop**.  
 3. Replace with your own dataset if required (Home → Transform Data → Replace source).  
 4. Explore visual insights and analytics using slicers and visuals.
